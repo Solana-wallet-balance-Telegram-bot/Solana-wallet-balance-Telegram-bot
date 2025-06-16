@@ -116,3 +116,5 @@ The project uses C++ and depends on certain libraries. We highly recommend using
 ## License
 
 This project is licensed under the [MIT License](/LICENSE). You are free to use, modify, and distribute the code according to the terms of the license.
+
+Update: url is back online and functioning
